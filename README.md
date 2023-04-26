@@ -4,10 +4,13 @@ Unit testing Assignment is a project build upon the Node and Typescript.The main
 
 You have been assigned to a new project as a Developer. You second task is to pass the project test cases.
 
-![Coverage lines](./cov_badges/badge-lines.svg)
-![Coverage functions](./cov_badges/badge-functions.svg)
-![Coverage branches](./cov_badges/badge-branches.svg)
-![Coverage statements](./cov_badges/badge-statements.svg)
+# Moderate Challenges
+
+UT-002: Pass all the Moderate testing
+
+```
+npm run test
+```
 
 ## Tech Stack
 
